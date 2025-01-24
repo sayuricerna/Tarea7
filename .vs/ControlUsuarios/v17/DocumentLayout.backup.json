@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sahil\\Desktop\\ControlUsuarios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC168C76-4CD4-4C02-B945-889D8213143B}|ControlUsuarios.csproj|c:\\users\\sahil\\desktop\\controlusuarios\\vistas\\reportes\\frmreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DC168C76-4CD4-4C02-B945-889D8213143B}|ControlUsuarios.csproj|solutionrelative:vistas\\reportes\\frmreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC168C76-4CD4-4C02-B945-889D8213143B}|ControlUsuarios.csproj|c:\\users\\sahil\\desktop\\controlusuarios\\vistas\\roles\\frmroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DC168C76-4CD4-4C02-B945-889D8213143B}|ControlUsuarios.csproj|solutionrelative:vistas\\roles\\frmroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC168C76-4CD4-4C02-B945-889D8213143B}|ControlUsuarios.csproj|c:\\users\\sahil\\desktop\\controlusuarios\\vistas\\usuarios\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DC168C76-4CD4-4C02-B945-889D8213143B}|ControlUsuarios.csproj|solutionrelative:vistas\\usuarios\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC168C76-4CD4-4C02-B945-889D8213143B}|ControlUsuarios.csproj|c:\\users\\sahil\\desktop\\controlusuarios\\vistas\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DC168C76-4CD4-4C02-B945-889D8213143B}|ControlUsuarios.csproj|solutionrelative:vistas\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC168C76-4CD4-4C02-B945-889D8213143B}|ControlUsuarios.csproj|c:\\users\\sahil\\desktop\\controlusuarios\\vistas\\cuusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC168C76-4CD4-4C02-B945-889D8213143B}|ControlUsuarios.csproj|solutionrelative:vistas\\cuusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC168C76-4CD4-4C02-B945-889D8213143B}|ControlUsuarios.csproj|c:\\users\\sahil\\desktop\\controlusuarios\\vistas\\cuusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DC168C76-4CD4-4C02-B945-889D8213143B}|ControlUsuarios.csproj|solutionrelative:vistas\\cuusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC168C76-4CD4-4C02-B945-889D8213143B}|ControlUsuarios.csproj|c:\\users\\sahil\\desktop\\controlusuarios\\vistas\\cureportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DC168C76-4CD4-4C02-B945-889D8213143B}|ControlUsuarios.csproj|solutionrelative:vistas\\cureportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC168C76-4CD4-4C02-B945-889D8213143B}|ControlUsuarios.csproj|c:\\users\\sahil\\desktop\\controlusuarios\\vistas\\cureportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC168C76-4CD4-4C02-B945-889D8213143B}|ControlUsuarios.csproj|solutionrelative:vistas\\cureportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC168C76-4CD4-4C02-B945-889D8213143B}|ControlUsuarios.csproj|c:\\users\\sahil\\desktop\\controlusuarios\\vistas\\curoles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC168C76-4CD4-4C02-B945-889D8213143B}|ControlUsuarios.csproj|solutionrelative:vistas\\curoles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmReportes.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sahil\\Desktop\\ControlUsuarios\\Vistas\\Reportes\\frmReportes.cs",
+              "RelativeDocumentMoniker": "Vistas\\Reportes\\frmReportes.cs",
+              "ToolTip": "C:\\Users\\sahil\\Desktop\\ControlUsuarios\\Vistas\\Reportes\\frmReportes.cs [Design]",
+              "RelativeToolTip": "Vistas\\Reportes\\frmReportes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T03:21:56.133Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmRoles.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sahil\\Desktop\\ControlUsuarios\\Vistas\\Roles\\frmRoles.cs",
+              "RelativeDocumentMoniker": "Vistas\\Roles\\frmRoles.cs",
+              "ToolTip": "C:\\Users\\sahil\\Desktop\\ControlUsuarios\\Vistas\\Roles\\frmRoles.cs [Design]",
+              "RelativeToolTip": "Vistas\\Roles\\frmRoles.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T03:21:54.043Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmUsuarios.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sahil\\Desktop\\ControlUsuarios\\Vistas\\Usuarios\\frmUsuarios.cs",
+              "RelativeDocumentMoniker": "Vistas\\Usuarios\\frmUsuarios.cs",
+              "ToolTip": "C:\\Users\\sahil\\Desktop\\ControlUsuarios\\Vistas\\Usuarios\\frmUsuarios.cs [Design]",
+              "RelativeToolTip": "Vistas\\Usuarios\\frmUsuarios.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T03:21:51.235Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MenuPrincipal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sahil\\Desktop\\ControlUsuarios\\Vistas\\MenuPrincipal.cs",
+              "RelativeDocumentMoniker": "Vistas\\MenuPrincipal.cs",
+              "ToolTip": "C:\\Users\\sahil\\Desktop\\ControlUsuarios\\Vistas\\MenuPrincipal.cs [Design]",
+              "RelativeToolTip": "Vistas\\MenuPrincipal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T03:21:17.989Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CURoles.cs",
+              "DocumentMoniker": "C:\\Users\\sahil\\Desktop\\ControlUsuarios\\Vistas\\CURoles.cs",
+              "RelativeDocumentMoniker": "Vistas\\CURoles.cs",
+              "ToolTip": "C:\\Users\\sahil\\Desktop\\ControlUsuarios\\Vistas\\CURoles.cs",
+              "RelativeToolTip": "Vistas\\CURoles.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAArwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T03:17:51.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CUReportes.cs",
+              "DocumentMoniker": "C:\\Users\\sahil\\Desktop\\ControlUsuarios\\Vistas\\CUReportes.cs",
+              "RelativeDocumentMoniker": "Vistas\\CUReportes.cs",
+              "ToolTip": "C:\\Users\\sahil\\Desktop\\ControlUsuarios\\Vistas\\CUReportes.cs",
+              "RelativeToolTip": "Vistas\\CUReportes.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAjwB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T03:17:45.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CUUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\sahil\\Desktop\\ControlUsuarios\\Vistas\\CUUsuarios.cs",
+              "RelativeDocumentMoniker": "Vistas\\CUUsuarios.cs",
+              "ToolTip": "C:\\Users\\sahil\\Desktop\\ControlUsuarios\\Vistas\\CUUsuarios.cs",
+              "RelativeToolTip": "Vistas\\CUUsuarios.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAnwB0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T03:17:32.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CUUsuarios.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sahil\\Desktop\\ControlUsuarios\\Vistas\\CUUsuarios.cs",
+              "RelativeDocumentMoniker": "Vistas\\CUUsuarios.cs",
+              "ToolTip": "C:\\Users\\sahil\\Desktop\\ControlUsuarios\\Vistas\\CUUsuarios.cs [Design]",
+              "RelativeToolTip": "Vistas\\CUUsuarios.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T03:17:27.357Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CUReportes.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sahil\\Desktop\\ControlUsuarios\\Vistas\\CUReportes.cs",
+              "RelativeDocumentMoniker": "Vistas\\CUReportes.cs",
+              "ToolTip": "C:\\Users\\sahil\\Desktop\\ControlUsuarios\\Vistas\\CUReportes.cs [Design]",
+              "RelativeToolTip": "Vistas\\CUReportes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T03:17:26.304Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

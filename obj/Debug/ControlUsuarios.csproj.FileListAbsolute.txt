@@ -1,0 +1,16 @@
+C:\Users\sahil\Desktop\ControlUsuarios\bin\Debug\ControlUsuarios.exe.config
+C:\Users\sahil\Desktop\ControlUsuarios\bin\Debug\ControlUsuarios.exe
+C:\Users\sahil\Desktop\ControlUsuarios\bin\Debug\ControlUsuarios.pdb
+C:\Users\sahil\Desktop\ControlUsuarios\obj\Debug\ControlUsuarios.csproj.AssemblyReference.cache
+C:\Users\sahil\Desktop\ControlUsuarios\obj\Debug\ControlUsuarios.Properties.Resources.resources
+C:\Users\sahil\Desktop\ControlUsuarios\obj\Debug\ControlUsuarios.Vistas.CUReportes.resources
+C:\Users\sahil\Desktop\ControlUsuarios\obj\Debug\ControlUsuarios.Vistas.CURoles.resources
+C:\Users\sahil\Desktop\ControlUsuarios\obj\Debug\ControlUsuarios.Vistas.CUUsuarios.resources
+C:\Users\sahil\Desktop\ControlUsuarios\obj\Debug\ControlUsuarios.Vistas.MenuPrincipal.resources
+C:\Users\sahil\Desktop\ControlUsuarios\obj\Debug\ControlUsuarios.Vistas.Reportes.frmReportes.resources
+C:\Users\sahil\Desktop\ControlUsuarios\obj\Debug\ControlUsuarios.Vistas.Roles.frmRoles.resources
+C:\Users\sahil\Desktop\ControlUsuarios\obj\Debug\ControlUsuarios.Vistas.Usuarios.frmUsuarios.resources
+C:\Users\sahil\Desktop\ControlUsuarios\obj\Debug\ControlUsuarios.csproj.GenerateResource.cache
+C:\Users\sahil\Desktop\ControlUsuarios\obj\Debug\ControlUsuarios.csproj.CoreCompileInputs.cache
+C:\Users\sahil\Desktop\ControlUsuarios\obj\Debug\ControlUsuarios.exe
+C:\Users\sahil\Desktop\ControlUsuarios\obj\Debug\ControlUsuarios.pdb
